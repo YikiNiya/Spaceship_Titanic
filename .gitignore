@@ -1,0 +1,25 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore environment files
+.env
+*.env
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other editor-specific files (e.g., PyCharm)
+.idea/
+
+catboost_info/
